@@ -1,4 +1,5 @@
-# Tic-Tac-Toe Game
+
+   # Tic-Tac-Toe Game
 
 This is a web-based Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game allows two players to play against each other in a traditional 3x3 grid format.
 
@@ -16,4 +17,5 @@ This is a web-based Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The 
 ## How to Run the Game
 1. Clone or download the repository to your local machine.
    ```bash
-   
+   git clone https://github.com/your-username/tictactoe-game.git
+
