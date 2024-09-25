@@ -17,5 +17,5 @@ This is a web-based Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The 
 ## How to Run the Game
 1. Clone or download the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/tictactoe-game.git
+   git clone https://github.com/Tharun1823/web-development.git
 
